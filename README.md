@@ -8,6 +8,7 @@
 <br>
   
 # Technologies & Tools
+<a target="_blank"><img align="right" height="350" width="400" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> 
 ## <b>IDEs and Text Editors
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=appveyor)
 
@@ -15,7 +16,7 @@
 
 ![](https://img.shields.io/badge/Editor-Android%20Studio-blue?style=plastic&logo=appveyor)
 <br/>
-<a target="_blank"><img align="right" height="350" width="400" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> 
+
 ## <b>Languages
 ![](https://img.shields.io/badge/Language-C%20++-blue?style=plastic&logo=cplusplus)
 
@@ -40,7 +41,7 @@
 <p>
   <br>
   <a href="https://www.linkedin.com/in/tameem623/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Tameem-623/Tameem-623/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Tameem-623/Tameem-623/blob/main/SVG/linkedin.svg"/></code>
   </a>
 </p>
 
