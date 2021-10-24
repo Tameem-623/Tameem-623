@@ -15,7 +15,7 @@
 
 ![](https://img.shields.io/badge/Editor-Android%20Studio-blue?style=plastic&logo=appveyor)
 <br/>
-<a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/Drawables/github.gif"></a> 
+<a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/tree/main/Drawables/github.gif"></a> 
 ## <b>Languages
 ![](https://img.shields.io/badge/Language-C%20++-blue?style=plastic&logo=cplusplus)
 
@@ -34,7 +34,7 @@
 
 <h1> Connect With Me
   <a target="_blank">
-    <img src="https://github.com/Tameem-623/Tameem-623/Drawables/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/Tameem-623/Tameem-623/tree/main/Drawables/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 <p>
@@ -46,4 +46,4 @@
 
 #
 
-![](drawables/footer.png)
+![](https://github.com/Tameem-623/Tameem-623/tree/main/Drawables/footer.png)
