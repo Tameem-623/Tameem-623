@@ -24,6 +24,8 @@
 
 ![](https://img.shields.io/badge/Language-CSS-blue?style=plastic&logo=appveyor)
 
+![](https://img.shields.io/badge/Language-Python-blue?style=plastic&logo=appveyor)
+  
 ![](https://img.shields.io/badge/Language-Java%20Script-blue?style=plastic&logo=appveyor)
 
 <br><br>
