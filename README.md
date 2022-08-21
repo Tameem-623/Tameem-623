@@ -19,7 +19,7 @@
 
 ![](https://img.shields.io/badge/Language-CSS-blue?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/Language-Python-blue?style=plastic&logo=appveyor)
-  
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
 ![](https://img.shields.io/badge/Language-Java%20Script-blue?style=plastic&logo=appveyor)
 <br/>
 
