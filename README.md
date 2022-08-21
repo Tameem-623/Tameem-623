@@ -11,16 +11,13 @@
 <a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> 
 ## <b>Langugaes and IDEs
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=appveyor)
-
 ![](https://img.shields.io/badge/Editor-CodeBlocks-blue?style=plastic&logo=appveyor)
-
 ![](https://img.shields.io/badge/Editor-Android%20Studio-blue?style=plastic&logo=appveyor)
-![](https://img.shields.io/badge/Language-C%20++-blue?style=plastic&logo=cplusplus)
 
+![](https://img.shields.io/badge/Language-C%20++-blue?style=plastic&logo=cplusplus)
 ![](https://img.shields.io/badge/Language-HTML-blue?style=plastic&logo=html5)
 
 ![](https://img.shields.io/badge/Language-CSS-blue?style=plastic&logo=appveyor)
-
 ![](https://img.shields.io/badge/Language-Python-blue?style=plastic&logo=appveyor)
   
 ![](https://img.shields.io/badge/Language-Java%20Script-blue?style=plastic&logo=appveyor)
