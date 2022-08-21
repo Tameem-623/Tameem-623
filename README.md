@@ -8,7 +8,7 @@
 <br>
   
 # Technologies & Tools
-<a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> 
+<a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> 
 ## <b>Langugaes and IDEs
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/Editor-CodeBlocks-blue?style=plastic&logo=appveyor)
