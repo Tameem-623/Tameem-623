@@ -2,14 +2,15 @@
 
 
 ### **Glad to see you here! 😍** <br>
+<a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> 
 - 🔭 This is [**Tameem** **Ud** **Din.**](https://github.com/tameem-623)
 -  🌱 I am a Tech Enthusiast. 
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : I am funny xD
 <br>
   
 # Technologies & Tools
-<a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> 
-## <b>Langugaes and IDEs
+<!-- <a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a>  -->
+<!-- ## <b>Langugaes and IDEs -->
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/Editor-CodeBlocks-blue?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-blue?style=plastic&logo=appveyor)
