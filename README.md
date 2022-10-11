@@ -11,9 +11,7 @@
 # Technologies & Tools
 <!-- <a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a>  -->
 <!-- ## <b>Langugaes and IDEs -->
-![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=appveyor)
-![](https://img.shields.io/badge/Editor-CodeBlocks-blue?style=plastic&logo=appveyor)
-![](https://img.shields.io/badge/Editor-Android%20Studio-blue?style=plastic&logo=appveyor)
+
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -26,6 +24,9 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   
+  ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/Editor-CodeBlocks-blue?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/Editor-Android%20Studio-blue?style=plastic&logo=appveyor)
 <br/>
 
 
