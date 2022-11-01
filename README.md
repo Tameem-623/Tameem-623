@@ -2,7 +2,7 @@
 
 
 ### **Glad to see you here! 😍** <br>
-<a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> 
+<!-- <a target="_blank"><img align="right" height="250" width="250" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a> --->
 - 🔭 This is [**Tameem** **Ud** **Din.**](https://github.com/tameem-623)
 -  🌱 I am a Tech Enthusiast. 
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : I am funny xD
@@ -10,10 +10,6 @@
 
 
 ## Technologies & Tools
-<!-- <a target="_blank"><img align="right" height="250" width="250" alt="𝙶𝙸𝙵" src="https://github.com/Tameem-623/Tameem-623/blob/main/GIF/github.gif"></a>  -->
-<!-- ## <b>Langugaes and IDEs -->
-
-              
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
